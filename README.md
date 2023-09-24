@@ -8,18 +8,18 @@ Key Features:
 * Real-time Conversion: Experience near-instantaneous translation, enabling fluid and natural conversations between Deaf individuals and those who may not be proficient in sign language.
 * Accessible Technology: This prototype paves the way for a more inclusive digital landscape, breaking down communication barriers and fostering a sense of belonging for all.
 
-Technologies Used:
-Python
-Machine Learning (ML)
-TensorFlow
-MediaPipe
-OpenCV
+Technologies Used: 
+Python, 
+Machine Learning (ML), 
+TensorFlow, 
+MediaPipe, 
+OpenCV.
 
-How to Use:
+How to Use: 
 Install the required dependencies (outlined in the README file).
 Run the provided Python script to initiate the sign-to-symbol conversion.
 Begin signing, and witness the seamless transformation into intuitive symbolic representations.
 
-Contributions:
+Contributions: 
 We welcome contributions from the community to enhance and expand this transformative technology. Whether it's refining 
 the model, improving recognition accuracy, or adding new features, your input is invaluable.
